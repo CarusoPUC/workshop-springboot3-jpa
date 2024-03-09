@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Este projeto é uma aplicação em Java focada em Web services com Spring Boot e JPA/Hibernate construída com o auxílio do curso Java COMPLETO Programação Orientada a Objetos + Projetos da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Este projeto é uma aplicação em Java focada em Web services com Spring Boot e JPA/Hibernate construída com o auxílio do curso Java COMPLETO Programação Orientada a Objetos + Projetos da [DevSuperior](https://devsuperior.com.br/).
 
 Este repositório é um projeto de um serviço web de CRUD (Create, Read, Update, Delete) desenvolvido com Java Spring Boot e utiliza o padrão JPA (Java Persistence API) para persistência de dados e MySQL para banco de dados.
 
